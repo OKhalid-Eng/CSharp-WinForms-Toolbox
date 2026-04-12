@@ -1,0 +1,10 @@
+C:\Users\Omar Khalid\Downloads\WindowsFormsApp24\bin\Debug\WindowsFormsApp24.exe.config
+C:\Users\Omar Khalid\Downloads\WindowsFormsApp24\bin\Debug\WindowsFormsApp24.exe
+C:\Users\Omar Khalid\Downloads\WindowsFormsApp24\bin\Debug\WindowsFormsApp24.pdb
+C:\Users\Omar Khalid\Downloads\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.csproj.AssemblyReference.cache
+C:\Users\Omar Khalid\Downloads\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.Form1.resources
+C:\Users\Omar Khalid\Downloads\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.Properties.Resources.resources
+C:\Users\Omar Khalid\Downloads\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.csproj.GenerateResource.cache
+C:\Users\Omar Khalid\Downloads\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.csproj.CoreCompileInputs.cache
+C:\Users\Omar Khalid\Downloads\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.exe
+C:\Users\Omar Khalid\Downloads\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.pdb
