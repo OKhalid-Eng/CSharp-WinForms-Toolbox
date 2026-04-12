@@ -11,7 +11,7 @@ Focused on event-driven programming, complex algorithms, and custom UI controls.
 * **Description:** A powerful data presentation tool that allows switching between multiple view modes (Details, Tile, Icons) dynamically.
 * **Technical Focus:** ListView control mastery, image list synchronization, and UI flexibility.
 > **Screenshot:**
-> ![Dynamic-List-View-Manage Screenshot](./01-Fundamentals-Projects/Dynamic-List-View-Manage/Screenshot)
+> ![Dynamic-List-View-Manage Screenshot](./01-Fundamentals-Projects/Dynamic-List-View-Manage/Dynamix.png)
 
 #### 2. Pizza-Order-System
 * **Description:** A complete ordering interface with complex price calculation logic based on size, crust type, and toppings.
@@ -23,7 +23,7 @@ Focused on event-driven programming, complex algorithms, and custom UI controls.
 * **Description:** A task management utility for organizing daily activities with status tracking.
 * **Technical Focus:** Collections management, event handling for task completion, and clean list interactions.
 > **Screenshot:**
-> ![TaskFlow Screenshot](./01-Logic-UI-Fundamentals/TaskFlow/screenshot.png)
+> ![TaskFlow Screenshot](./01-Logic-UI-Fundamentals/TaskFlow/Task.png)
 
 ### 🟩 02-Data-Driven-Applications
 Advanced projects integrating **ADO.NET** and **SQL Server** for data persistence.
