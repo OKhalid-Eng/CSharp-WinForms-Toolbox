@@ -17,13 +17,13 @@ Focused on event-driven programming, complex algorithms, and custom UI controls.
 * **Description:** A complete ordering interface with complex price calculation logic based on size, crust type, and toppings.
 * **Technical Focus:** Form state management, group-box logic, and dynamic receipt generation.
 > **Screenshot:**
-> ![Pizza-Order Screenshot](./01-Logic-UI-Fundamentals/Pizza-Order/Pizza.png)
+> ![Pizza-Order Screenshot](./01-Fundamentals-Projects/Pizza-Order/Pizza.png)
 
 #### 3. TaskFlow (To-Do List)
 * **Description:** A task management utility for organizing daily activities with status tracking.
 * **Technical Focus:** Collections management, event handling for task completion, and clean list interactions.
 > **Screenshot:**
-> ![TaskFlow Screenshot](./01-Logic-UI-Fundamentals/TaskFlow/Task.png)
+> ![TaskFlow Screenshot](./01-Fundamentals-Projects/TaskFlow/Task.png)
 
 ### 🟩 02-Data-Driven-Applications
 Advanced projects integrating **ADO.NET** and **SQL Server** for data persistence.
