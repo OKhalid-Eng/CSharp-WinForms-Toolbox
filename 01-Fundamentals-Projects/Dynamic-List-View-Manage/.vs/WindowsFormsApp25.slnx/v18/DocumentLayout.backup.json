@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Programming_Advices\\Level_One_C#\\9_Desktop_Projects\\\u0628\u0627\u062B\u064A \u0627\u0636\u0627\u0641\u062A image list\\",
+  "WorkspaceRootPath": "D:\\Programming_Advices\\Level_One_C#\\9_Desktop_Projects\\01-Fundamentals-Projects\\Dynamic-List-View-Manage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10B35A00-5EB0-48F3-B2AE-1FB45D0715E8}|WindowsFormsApp25.csproj|d:\\programming_advices\\level_one_c#\\9_desktop_projects\\\u0628\u0627\u062B\u064A \u0627\u0636\u0627\u0641\u062A image list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10B35A00-5EB0-48F3-B2AE-1FB45D0715E8}|WindowsFormsApp25.csproj|D:\\Programming_Advices\\Level_One_C#\\9_Desktop_Projects\\01-Fundamentals-Projects\\Dynamic-List-View-Manage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10B35A00-5EB0-48F3-B2AE-1FB45D0715E8}|WindowsFormsApp25.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B35A00-5EB0-48F3-B2AE-1FB45D0715E8}|WindowsFormsApp25.csproj|D:\\Programming_Advices\\Level_One_C#\\9_Desktop_Projects\\\u0628\u0627\u062B\u064A \u0627\u0636\u0627\u0641\u062A image list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{10B35A00-5EB0-48F3-B2AE-1FB45D0715E8}|WindowsFormsApp25.csproj|d:\\programming_advices\\level_one_c#\\9_desktop_projects\\01-fundamentals-projects\\dynamic-list-view-manage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{10B35A00-5EB0-48F3-B2AE-1FB45D0715E8}|WindowsFormsApp25.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Programming_Advices\\Level_One_C#\\9_Desktop_Projects\\\u0628\u0627\u062B\u064A \u0627\u0636\u0627\u0641\u062A image list\\Form1.cs",
+              "DocumentMoniker": "D:\\Programming_Advices\\Level_One_C#\\9_Desktop_Projects\\01-Fundamentals-Projects\\Dynamic-List-View-Manage\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Programming_Advices\\Level_One_C#\\9_Desktop_Projects\\\u0628\u0627\u062B\u064A \u0627\u0636\u0627\u0641\u062A image list\\Form1.cs",
+              "ToolTip": "D:\\Programming_Advices\\Level_One_C#\\9_Desktop_Projects\\01-Fundamentals-Projects\\Dynamic-List-View-Manage\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAApwDAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T06:16:27.335Z",
               "EditorCaption": ""
@@ -41,12 +41,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Programming_Advices\\Level_One_C#\\9_Desktop_Projects\\\u0628\u0627\u062B\u064A \u0627\u0636\u0627\u0641\u062A image list\\Form1.cs",
+              "DocumentMoniker": "D:\\Programming_Advices\\Level_One_C#\\9_Desktop_Projects\\01-Fundamentals-Projects\\Dynamic-List-View-Manage\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Programming_Advices\\Level_One_C#\\9_Desktop_Projects\\\u0628\u0627\u062B\u064A \u0627\u0636\u0627\u0641\u062A image list\\Form1.cs [Design]",
+              "ToolTip": "D:\\Programming_Advices\\Level_One_C#\\9_Desktop_Projects\\01-Fundamentals-Projects\\Dynamic-List-View-Manage\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T06:03:01.151Z"
+              "WhenOpened": "2026-02-03T06:03:01.151Z",
+              "EditorCaption": " [Design]"
             }
           ]
         },
