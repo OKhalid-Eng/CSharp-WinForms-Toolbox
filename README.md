@@ -11,13 +11,13 @@ Focused on event-driven programming, complex algorithms, and custom UI controls.
 * **Description:** A powerful data presentation tool that allows switching between multiple view modes (Details, Tile, Icons) dynamically.
 * **Technical Focus:** ListView control mastery, image list synchronization, and UI flexibility.
 > **Screenshot:**
-> ![Dynamic-List-View-Manage Screenshot](./01-Logic-UI-Fundamentals/Dynamic-List-View-Manage/screenshot.png)
+> ![Dynamic-List-View-Manage Screenshot](./01-Fundamentals-Projects/Dynamic-List-View-Manage/screenshot.png)
 
 #### 2. Pizza-Order-System
 * **Description:** A complete ordering interface with complex price calculation logic based on size, crust type, and toppings.
 * **Technical Focus:** Form state management, group-box logic, and dynamic receipt generation.
 > **Screenshot:**
-> ![Pizza-Order Screenshot](./01-Logic-UI-Fundamentals/Pizza-Order/screenshot.png)
+> ![Pizza-Order Screenshot](./01-Logic-UI-Fundamentals/Pizza-Order/Pizza.png)
 
 #### 3. TaskFlow (To-Do List)
 * **Description:** A task management utility for organizing daily activities with status tracking.
