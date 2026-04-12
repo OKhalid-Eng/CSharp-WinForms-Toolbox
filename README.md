@@ -11,7 +11,7 @@ Focused on event-driven programming, complex algorithms, and custom UI controls.
 * **Description:** A powerful data presentation tool that allows switching between multiple view modes (Details, Tile, Icons) dynamically.
 * **Technical Focus:** ListView control mastery, image list synchronization, and UI flexibility.
 > **Screenshot:**
-> ![Dynamic-List-View-Manage Screenshot](./01-Fundamentals-Projects/Dynamic-List-View-Manage/screenshot.png)
+> ![Dynamic-List-View-Manage Screenshot](./01-Fundamentals-Projects/Dynamic-List-View-Manage/Screenshot 2026-04-12 102647.png.png)
 
 #### 2. Pizza-Order-System
 * **Description:** A complete ordering interface with complex price calculation logic based on size, crust type, and toppings.
