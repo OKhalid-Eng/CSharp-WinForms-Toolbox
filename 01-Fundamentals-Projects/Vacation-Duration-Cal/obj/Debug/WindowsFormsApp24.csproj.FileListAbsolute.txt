@@ -18,3 +18,13 @@ D:\Programming_Advices\Level_One_C#\9_Desktop_Projects\Vacaction\obj\Debug\Windo
 D:\Programming_Advices\Level_One_C#\9_Desktop_Projects\Vacaction\obj\Debug\WindowsFormsApp24.csproj.CoreCompileInputs.cache
 D:\Programming_Advices\Level_One_C#\9_Desktop_Projects\Vacaction\obj\Debug\WindowsFormsApp24.exe
 D:\Programming_Advices\Level_One_C#\9_Desktop_Projects\Vacaction\obj\Debug\WindowsFormsApp24.pdb
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\Vacation-Duration-Cal\bin\Debug\WindowsFormsApp24.exe.config
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\Vacation-Duration-Cal\bin\Debug\WindowsFormsApp24.exe
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\Vacation-Duration-Cal\bin\Debug\WindowsFormsApp24.pdb
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\Vacation-Duration-Cal\obj\Debug\WindowsFormsApp24.csproj.AssemblyReference.cache
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\Vacation-Duration-Cal\obj\Debug\WindowsFormsApp24.Form1.resources
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\Vacation-Duration-Cal\obj\Debug\WindowsFormsApp24.Properties.Resources.resources
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\Vacation-Duration-Cal\obj\Debug\WindowsFormsApp24.csproj.GenerateResource.cache
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\Vacation-Duration-Cal\obj\Debug\WindowsFormsApp24.csproj.CoreCompileInputs.cache
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\Vacation-Duration-Cal\obj\Debug\WindowsFormsApp24.exe
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\Vacation-Duration-Cal\obj\Debug\WindowsFormsApp24.pdb

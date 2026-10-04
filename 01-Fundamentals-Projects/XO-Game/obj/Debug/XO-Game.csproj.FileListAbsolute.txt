@@ -1,0 +1,10 @@
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\XO-Game\bin\Debug\XO-Game.exe.config
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\XO-Game\bin\Debug\XO-Game.exe
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\XO-Game\bin\Debug\XO-Game.pdb
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\XO-Game\obj\Debug\XO-Game.csproj.AssemblyReference.cache
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\XO-Game\obj\Debug\XO_Game.Properties.Resources.resources
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\XO-Game\obj\Debug\XO-Game.csproj.GenerateResource.cache
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\XO-Game\obj\Debug\XO-Game.csproj.CoreCompileInputs.cache
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\XO-Game\obj\Debug\XO-Game.exe
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\XO-Game\obj\Debug\XO-Game.pdb
+D:\Programming_Advices\Level_One_&_Two_C#\9_Desktop_Projects\01-Fundamentals-Projects\XO-Game\obj\Debug\XO_Game.frmXO.resources

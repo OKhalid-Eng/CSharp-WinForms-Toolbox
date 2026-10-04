@@ -8,3 +8,13 @@ C:\Users\Omar Khalid\Downloads\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.csp
 C:\Users\Omar Khalid\Downloads\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.csproj.CoreCompileInputs.cache
 C:\Users\Omar Khalid\Downloads\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.exe
 C:\Users\Omar Khalid\Downloads\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.pdb
+D:\Programming_Advices\Level_One_C#\9_Desktop_Projects\01-Fundamentals-Projects\Date-Time-Picker\bin\Debug\WindowsFormsApp24.exe.config
+D:\Programming_Advices\Level_One_C#\9_Desktop_Projects\01-Fundamentals-Projects\Date-Time-Picker\bin\Debug\WindowsFormsApp24.exe
+D:\Programming_Advices\Level_One_C#\9_Desktop_Projects\01-Fundamentals-Projects\Date-Time-Picker\bin\Debug\WindowsFormsApp24.pdb
+D:\Programming_Advices\Level_One_C#\9_Desktop_Projects\01-Fundamentals-Projects\Date-Time-Picker\obj\Debug\WindowsFormsApp24.csproj.AssemblyReference.cache
+D:\Programming_Advices\Level_One_C#\9_Desktop_Projects\01-Fundamentals-Projects\Date-Time-Picker\obj\Debug\WindowsFormsApp24.Form1.resources
+D:\Programming_Advices\Level_One_C#\9_Desktop_Projects\01-Fundamentals-Projects\Date-Time-Picker\obj\Debug\WindowsFormsApp24.Properties.Resources.resources
+D:\Programming_Advices\Level_One_C#\9_Desktop_Projects\01-Fundamentals-Projects\Date-Time-Picker\obj\Debug\WindowsFormsApp24.csproj.GenerateResource.cache
+D:\Programming_Advices\Level_One_C#\9_Desktop_Projects\01-Fundamentals-Projects\Date-Time-Picker\obj\Debug\WindowsFormsApp24.csproj.CoreCompileInputs.cache
+D:\Programming_Advices\Level_One_C#\9_Desktop_Projects\01-Fundamentals-Projects\Date-Time-Picker\obj\Debug\WindowsFormsApp24.exe
+D:\Programming_Advices\Level_One_C#\9_Desktop_Projects\01-Fundamentals-Projects\Date-Time-Picker\obj\Debug\WindowsFormsApp24.pdb

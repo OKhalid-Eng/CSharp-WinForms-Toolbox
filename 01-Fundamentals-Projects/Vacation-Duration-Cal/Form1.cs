@@ -31,5 +31,10 @@ namespace WindowsFormsApp24
 
 
         }
+
+        private void lblNumOfDays_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

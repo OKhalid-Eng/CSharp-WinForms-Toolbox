@@ -152,7 +152,6 @@
             this.btnOpenFilePicture.TabIndex = 7;
             this.btnOpenFilePicture.Text = "Choose Picture";
             this.btnOpenFilePicture.UseVisualStyleBackColor = true;
-            this.btnOpenFilePicture.Click += new System.EventHandler(this.btnOpenFilePicture_Click);
             // 
             // label4
             // 

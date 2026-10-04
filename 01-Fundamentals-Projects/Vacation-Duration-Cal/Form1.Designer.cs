@@ -44,7 +44,7 @@
             this.label1.Font = new System.Drawing.Font("Tahoma", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(273, 79);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(509, 41);
+            this.label1.Size = new System.Drawing.Size(494, 40);
             this.label1.TabIndex = 0;
             this.label1.Text = "Vacation Duration Calculator";
             // 
@@ -112,6 +112,7 @@
             this.lblNumOfDays.Size = new System.Drawing.Size(27, 28);
             this.lblNumOfDays.TabIndex = 7;
             this.lblNumOfDays.Text = "0";
+            this.lblNumOfDays.Click += new System.EventHandler(this.lblNumOfDays_Click);
             // 
             // Form1
             // 
