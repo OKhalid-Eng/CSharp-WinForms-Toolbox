@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Country-Business-Layer/Country-Business-Layer.csproj" Id="d67a9151-9919-4da3-8cc6-4f66504afc6f" />
+  <Project Path="../Country-Data-Access-Layer/Country-Data-Access-Layer.csproj" Id="d886ce3c-cc9d-48cc-b584-b3f82090fe47" />
+  <Project Path="../DataAccessSettings/DataAccessSettings.csproj" Id="24bd0e20-760b-4630-b0a9-3cbb33b7658f" />
+  <Project Path="Country-Presentation-Layer.csproj" Id="1d81c295-1371-4070-b803-b77a7e2b4313" />
+</Solution>

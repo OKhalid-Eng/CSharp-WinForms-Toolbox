@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Contacts Project on 3 Tier Architecture - Console App/ContactBusinessLayer/ContactsBusinessLayer.csproj" Id="e533f207-e07a-4d21-90bd-95a635e42ccc" />
+  <Project Path="../Contacts Project on 3 Tier Architecture - Console App/ContactsDataAccessLayer/ContactsDataAccessLayer.csproj" Id="dccc4184-857c-4f65-88b3-8e1ccea8b9e7" />
+  <Project Path="../Contacts Project on 3 Tier Architecture - Console App/DataAccessSettings/DataAccessSettings.csproj" Id="1279f7fe-8148-400a-a5ce-527dc3f80d3f" />
+  <Project Path="Contacts - WinForms.csproj" Id="bd8e697f-3df8-476f-a936-e4e015b64ec8" />
+</Solution>
