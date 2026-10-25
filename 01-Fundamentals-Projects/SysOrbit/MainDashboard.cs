@@ -76,6 +76,8 @@ namespace SysOrbit
             {
                 lblTittle.Text = "System & Display Management";
                 ucSysAndDisplay1.Visible = true;
+                ucHardwareAudioAndNetworks1.Visible = false;
+
 
 
             }
@@ -83,6 +85,7 @@ namespace SysOrbit
             {
                 lblTittle.Text = "Hardware, Audio & Network Management";
                 ucSysAndDisplay1.Visible = false;
+                ucHardwareAudioAndNetworks1.Visible = true;
 
 
 
@@ -96,7 +99,9 @@ namespace SysOrbit
             }
         }
 
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
 
-
+        }
     }
 }

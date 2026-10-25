@@ -35,6 +35,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.lblTittle = new System.Windows.Forms.Label();
+            this.ucHardwareAudioAndNetworks1 = new SysOrbit.ucHardwareAudioAndNetworks();
             this.ucSysAndDisplay1 = new SysOrbit.ucSysAndDisplay();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -52,6 +53,7 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(276, 610);
             this.panel1.TabIndex = 0;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // btnOfficeAndAutomation
             // 
@@ -137,6 +139,14 @@
             this.lblTittle.TabIndex = 1;
             this.lblTittle.Text = "System && Display Management";
             // 
+            // ucHardwareAudioAndNetworks1
+            // 
+            this.ucHardwareAudioAndNetworks1.BackColor = System.Drawing.Color.White;
+            this.ucHardwareAudioAndNetworks1.Location = new System.Drawing.Point(511, 77);
+            this.ucHardwareAudioAndNetworks1.Name = "ucHardwareAudioAndNetworks1";
+            this.ucHardwareAudioAndNetworks1.Size = new System.Drawing.Size(605, 485);
+            this.ucHardwareAudioAndNetworks1.TabIndex = 3;
+            // 
             // ucSysAndDisplay1
             // 
             this.ucSysAndDisplay1.BackColor = System.Drawing.Color.White;
@@ -151,6 +161,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LavenderBlush;
             this.ClientSize = new System.Drawing.Size(1364, 610);
+            this.Controls.Add(this.ucHardwareAudioAndNetworks1);
             this.Controls.Add(this.ucSysAndDisplay1);
             this.Controls.Add(this.lblTittle);
             this.Controls.Add(this.panel1);
@@ -176,6 +187,7 @@
         private System.Windows.Forms.Button btnHarwareAndNetwork;
         private System.Windows.Forms.Label lblTittle;
         private ucSysAndDisplay ucSysAndDisplay1;
+        private ucHardwareAudioAndNetworks ucHardwareAudioAndNetworks1;
     }
 }
 
